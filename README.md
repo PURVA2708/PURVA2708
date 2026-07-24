@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:4F46E5&height=220&section=header&text=Purva%20N.%20Patel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=FULL-STACK+Developer;data+science;Building+Secure%2C+Scalable+Web+Apps;Google+Cloud+Certified+Professional+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=FULL-STACK+Developer;Data+Science;Building+Secure%2C+Scalable+Web+Apps;Google+Cloud+Certified+Professional+Architect" alt="Typing SVG" />
 </a>
 
 <br/>
