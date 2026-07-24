@@ -17,7 +17,7 @@
 <a href="mailto:purvapatel00003122964@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/PURVA2708" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/u/PURVA2708" target="_blank"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://github.com/PURVA2708/PURVA2708/blob/main/Purva_Patel_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+<a href="YOUR_GOOGLE_DRIVE_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -49,7 +49,7 @@ I hold a **Google Cloud Professional Cloud Architect** certification alongside i
 
 You can view or download my latest resume by clicking the link below:
 
-<a href="https://github.com/PURVA2708/PURVA2708/blob/main/Purva_Patel_Resume.pdf" target="_blank"><b>👉 View My Resume (PDF)</b></a>
+<a href="YOUR_GOOGLE_DRIVE_LINK_HERE" target="_blank"><b>👉 View My Resume (PDF)</b></a>
 
 ---
 
@@ -200,21 +200,7 @@ You can view or download my latest resume by clicking the link below:
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PURVA2708/PURVA2708/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PURVA2708/PURVA2708/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PURVA2708/PURVA2708/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
