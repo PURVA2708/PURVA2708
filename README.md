@@ -55,115 +55,23 @@ You can view or download my latest resume by clicking the link below:
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<br/>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br><sub>JavaScript</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br><sub>TypeScript</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br><sub>C++</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br><sub>MySQL</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br><sub>HTML</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br><sub>CSS</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages&lineCount=1&theme=github-dark&line1=javascript,typescript,cpp,mysql,html5,css3" alt="Languages" />
 
 <br/>
 
-**Frontend**
-<br/>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" />
-      <br><sub>React.js</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br><sub>Tailwind CSS</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br><sub>Vite</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br><sub>Next.js</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&lineCount=1&theme=github-dark&line1=react,tailwindcss,vite,nextjs" alt="Frontend" />
 
 <br/>
 
-**Backend & Databases**
-<br/>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br><sub>Node.js</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br><sub>Express</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br><sub>PostgreSQL</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-      <br><sub>Supabase</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend+%26+Databases&lineCount=1&theme=github-dark&line1=nodejs,express,postgresql,supabase" alt="Backend & Databases" />
 
 <br/>
 
-**Cloud, DevOps & Tooling**
-<br/>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
-      <br><sub>Google Cloud</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><sub>Git</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br><sub>GitHub</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-      <br><sub>Vercel</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="./render.svg" width="48" height="48" alt="Render" />
-      <br><sub>Render</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Cloud,+DevOps+%26+Tooling&lineCount=1&theme=github-dark&line1=googlecloud,git,github,vercel" alt="Cloud, DevOps & Tooling" />
+
+</div>
 
 ---
 
