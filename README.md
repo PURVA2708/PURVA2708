@@ -13,16 +13,16 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/purva-patel-334182320"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:purvapatel00003122964@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR-GITHUB"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/PURVA2708"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/PURVA2708"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB&label=Profile%20Views&color=6D28D9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/YOUR-GITHUB?label=Followers&style=flat-square&color=8B5CF6"/>
-<img src="https://img.shields.io/github/stars/YOUR-GITHUB?label=Stars&style=flat-square&color=4F46E5"/>
+<img src="https://komarev.com/ghpvc/?username=PURVA2708&label=Profile%20Views&color=6D28D9&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/PURVA2708?label=Followers&style=flat-square&color=8B5CF6"/>
+<img src="https://img.shields.io/github/stars/PURVA2708?label=Stars&style=flat-square&color=4F46E5"/>
 
 </div>
 
@@ -97,7 +97,7 @@ Full-stack monorepo ERP covering the complete procurement lifecycle: purchase re
 | **Performance** | Vite-bundled vanilla HTML5/CSS3/JS SPA frontend for fast load times |
 | **Security** | Row-Level Security (RLS) policies enforcing role-based data access; custom JWT session authentication |
 | **Impact** | End-to-end vendor/procurement workflow across 4 distinct roles: Procurement Officer, Manager/Approver, Vendor, Administrator |
-| **Repository** | [github.com/YOUR-GITHUB/vendorbridge](https://github.com/YOUR-GITHUB) |
+| **Repository** | [github.com/PURVA2708](https://github.com/PURVA2708) |
 
 Architected as a Turborepo + pnpm Workspaces monorepo with a Node.js/Express REST API backend and a Vite-bundled vanilla frontend. Designed the PostgreSQL data layer on Supabase with RLS policies enforcing strict role-based access control. Implemented custom JWT-based session auth with role-based routing, plus transactional email flows (welcome, OTP, password reset, purchase orders) via Nodemailer.
 
@@ -116,7 +116,7 @@ Full-stack JavaScript application with a dedicated client and server architectur
 | **Performance** | Responsive, functional interface across devices |
 | **Security** | Structured client-server boundary for safer data flow |
 | **Impact** | Iterated across 12+ commits, reflecting agile, incremental delivery |
-| **Repository** | [github.com/YOUR-GITHUB/interview-platform](https://github.com/YOUR-GITHUB) |
+| **Repository** | [github.com/PURVA2708](https://github.com/PURVA2708) |
 
 Developed the majority of application logic in JavaScript, integrating HTML/CSS for a responsive UI, with continuous iteration on client-server interaction.
 
@@ -166,10 +166,10 @@ LDRP Institute of Technology & Research, Gujarat Technological University (KSV)
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR-GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/YOUR-HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/YOUR-CODECHEF"><img src="https://img.shields.io/badge/CodeChef-1E1B4B?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/u/PURVA2708"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/PURVA2708"><img src="https://img.shields.io/badge/GeeksforGeeks-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/PURVA2708"><img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/PURVA2708"><img src="https://img.shields.io/badge/CodeChef-1E1B4B?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 </div>
 
@@ -179,12 +179,12 @@ LDRP Institute of Technology & Research, Gujarat Technological University (KSV)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PURVA2708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=PURVA2708&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PURVA2708&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
 
 </div>
 
@@ -194,7 +194,7 @@ LDRP Institute of Technology & Research, Gujarat Technological University (KSV)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB&theme=algolia&no-frame=true&margin-w=10&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PURVA2708&theme=algolia&no-frame=true&margin-w=10&row=1&column=6"/>
 
 </div>
 
@@ -204,7 +204,7 @@ LDRP Institute of Technology & Research, Gujarat Technological University (KSV)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=4F46E5" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PURVA2708&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=4F46E5" width="100%"/>
 
 </div>
 
@@ -214,7 +214,7 @@ LDRP Institute of Technology & Research, Gujarat Technological University (KSV)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB/YOUR-GITHUB/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/PURVA2708/PURVA2708/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -228,7 +228,6 @@ Learning:
   - Cloud-Native Architecture on GCP
 Building:
   - VendorBridge ERP (feature expansion)
-  - Personal Portfolio Website
 Exploring:
   - GenAI-integrated Web Applications
   - Scalable Multi-Tenant SaaS Patterns
@@ -244,9 +243,9 @@ Open To:
 <div align="center">
 
 <a href="mailto:purvapatel00003122964@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR-GITHUB"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/purva-patel-334182320"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/PURVA2708"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/PURVA2708"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 </div>
 
