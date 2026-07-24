@@ -159,7 +159,7 @@ You can view or download my latest resume by clicking the link below:
       <br><sub>Vercel</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render" />
+      <img src="./render.svg" width="48" height="48" alt="Render" />
       <br><sub>Render</sub>
     </td>
   </tr>
