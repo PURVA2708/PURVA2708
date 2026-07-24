@@ -33,23 +33,10 @@
 
 ## 🚀 About Me
 
-```yaml
-name: "Purva N. Patel"
-role: "Full-Stack Engineer & CS Undergraduate"
-focus: ["Web Development", "Data Science", "Cloud Architecture"]
-```
 
 I'm a Computer Science undergraduate and full-stack developer focused on shipping end-to-end web applications that are **fast, secure, and genuinely useful**. I work across the entire stack — crafting clean, responsive interfaces with **React.js** and **Tailwind CSS**, and engineering reliable backend systems with **Node.js**, **Express**, and **RESTful APIs**.
 
 I hold a **Google Cloud Professional Cloud Architect** certification alongside industry credentials from **Deloitte** and **Tata Group**, and I care deeply about writing production-grade code — from role-based access control to transactional email systems and audit-safe data layers.
-
----
-
-## 📄 Resume
-
-You can view or download my latest resume by clicking the link below:
-
-<a href="https://drive.google.com/file/d/1nw5Q2BHjr60nMIICICrvbmiqv_rZN1qg/view?usp=sharing" target="_blank"><b>👉 View My Resume (PDF)</b></a>
 
 ---
 
