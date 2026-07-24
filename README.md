@@ -49,7 +49,7 @@ I hold a **Google Cloud Professional Cloud Architect** certification alongside i
 
 You can view or download my latest resume by clicking the link below:
 
-<a href="YOUR_GOOGLE_DRIVE_LINK_HERE" target="_blank"><b>👉 View My Resume (PDF)</b></a>
+<a href="https://drive.google.com/drive/u/0/folders/1BFrXOTxKrUdrhZOHVgOAJW8HP4EuJsJ8" target="_blank"><b>👉 View My Resume (PDF)</b></a>
 
 ---
 
