@@ -13,11 +13,11 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/purva-patel-334182320"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:purvapatel00003122964@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/PURVA2708"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/PURVA2708"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="./Purva_Patel_Resume.pdf"><img src="https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+<a href="https://linkedin.com/in/purva-patel-334182320" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:purvapatel00003122964@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/PURVA2708" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/PURVA2708" target="_blank"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://github.com/PURVA2708/PURVA2708/blob/main/Purva_Patel_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -49,7 +49,7 @@ I hold a **Google Cloud Professional Cloud Architect** certification alongside i
 
 You can view or download my latest resume by clicking the link below:
 
-👉 **[View My Resume (PDF)](./Purva_Patel_Resume.pdf)**
+<a href="https://github.com/PURVA2708/PURVA2708/blob/main/Purva_Patel_Resume.pdf" target="_blank"><b>👉 View My Resume (PDF)</b></a>
 
 ---
 
