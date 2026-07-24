@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:4F46E5&height=220&section=header&text=Purva%20N.%20Patel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Data+Science;Building+Secure%2C+Scalable+Web+Apps;Google+Cloud+Certified+Professional+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=FULL-STACK+Developer;data+science;Building+Secure%2C+Scalable+Web+Apps;Google+Cloud+Certified+Professional+Architect" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,6 +17,7 @@
 <a href="mailto:purvapatel00003122964@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/PURVA2708"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/u/PURVA2708"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="./Purva_Patel_Resume.pdf"><img src="https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -44,37 +45,125 @@ I hold a **Google Cloud Professional Cloud Architect** certification alongside i
 
 ---
 
+## 📄 Resume
+
+You can view or download my latest resume by clicking the link below:
+
+👉 **[View My Resume (PDF)](./Purva_Patel_Resume.pdf)**
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,mysql,html,css" />
-<br/>
-<sub>JavaScript &nbsp;&nbsp; TypeScript &nbsp;&nbsp; C++ &nbsp;&nbsp; MySQL &nbsp;&nbsp; HTML &nbsp;&nbsp; CSS</sub>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br><sub>JavaScript</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br><sub>TypeScript</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br><sub>C++</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br><sub>MySQL</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br><sub>HTML</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br><sub>CSS</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs" />
-<br/>
-<sub>React.js &nbsp;&nbsp; Tailwind CSS &nbsp;&nbsp; Vite &nbsp;&nbsp; Next.js</sub>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" />
+      <br><sub>React.js</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br><sub>Tailwind CSS</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br><sub>Vite</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br><sub>Next.js</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 **Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase" />
-<br/>
-<sub>Node.js &nbsp;&nbsp; Express &nbsp;&nbsp; PostgreSQL &nbsp;&nbsp; Supabase</sub>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br><sub>Node.js</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br><sub>Express</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br><sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br><sub>Supabase</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 **Cloud, DevOps & Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=gcp,git,github,vercel,render" />
-<br/>
-<sub>Google Cloud &nbsp;&nbsp; Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; Vercel &nbsp;&nbsp; Render</sub>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
+      <br><sub>Google Cloud</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><sub>Git</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br><sub>GitHub</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br><sub>Vercel</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render" />
+      <br><sub>Render</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
