@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:4F46E5&height=220&section=header&text=Purva%20N.%20Patel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(React+%2B+Node.js);Building+Secure%2C+Scalable+Web+Apps;Google+Cloud+Certified+Professional+Architect;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(React+%2B+Node.js);Building+Secure%2C+Scalable+Web+Apps;Google+Cloud+Certified+Professional+Architect;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -56,11 +56,11 @@ I hold a **Google Cloud Professional Cloud Architect** certification alongside i
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,cpp,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,mysql,html,css" />
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs" />
 
 **Backend & Databases**
 <br/>
@@ -82,10 +82,10 @@ I hold a **Google Cloud Professional Cloud Architect** certification alongside i
 
 ---
 
-## 💼 Featured Projects
+## 💼 Projects
 
 <details>
-<summary><b>🏢 VendorBridge — Procurement & Vendor Management ERP</b></summary>
+<summary><b>🏢 Vendor_Apex — Procurement & Vendor Management ERP</b></summary>
 <br/>
 
 Full-stack monorepo ERP covering the complete procurement lifecycle: purchase requisitions (RFQs), vendor quotations, side-by-side comparisons, manager approvals, purchase order generation, invoice settlements, and audit logs.
@@ -93,18 +93,56 @@ Full-stack monorepo ERP covering the complete procurement lifecycle: purchase re
 | Category | Details |
 |:--|:--|
 | **Stack** | Node.js · Express · PostgreSQL · Supabase · JWT Auth · Vite · pnpm · Nodemailer |
-| **Scale** | Turborepo + pnpm Workspaces monorepo architecture |
+| **Language** | JavaScript |
+| **Architecture** | Turborepo + pnpm Workspaces monorepo |
 | **Performance** | Vite-bundled vanilla HTML5/CSS3/JS SPA frontend for fast load times |
 | **Security** | Row-Level Security (RLS) policies enforcing role-based data access; custom JWT session authentication |
-| **Impact** | End-to-end vendor/procurement workflow across 4 distinct roles: Procurement Officer, Manager/Approver, Vendor, Administrator |
-| **Repository** | [github.com/PURVA2708](https://github.com/PURVA2708) |
+| **Roles** | Procurement Officer · Manager/Approver · Vendor · Administrator |
+| **Live** | [vendor-apex-web.onrender.com](https://vendor-apex-web.onrender.com) |
+| **Repository** | [github.com/PURVA2708/Vendor_Apex](https://github.com/PURVA2708/Vendor_Apex) |
 
 Architected as a Turborepo + pnpm Workspaces monorepo with a Node.js/Express REST API backend and a Vite-bundled vanilla frontend. Designed the PostgreSQL data layer on Supabase with RLS policies enforcing strict role-based access control. Implemented custom JWT-based session auth with role-based routing, plus transactional email flows (welcome, OTP, password reset, purchase orders) via Nodemailer.
 
 </details>
 
 <details>
-<summary><b>🎤 Interview Platform — Client–Server Web Application</b></summary>
+<summary><b>🚌 TransitOps_Odoo — Transport Operations Management</b></summary>
+<br/>
+
+A transport and transit operations management platform built with a modern JavaScript stack and deployed on Vercel, focused on streamlining logistics and fleet operations.
+
+| Category | Details |
+|:--|:--|
+| **Stack** | JavaScript · HTML · CSS · Vercel |
+| **Language** | JavaScript |
+| **Focus** | Transit & logistics operations management |
+| **Live** | [transit-0ps.vercel.app](https://transit-0ps.vercel.app) |
+| **Repository** | [github.com/PURVA2708/TransitOps_Odoo](https://github.com/PURVA2708/TransitOps_Odoo) |
+
+Built a full operations interface for managing transit workflows, routes, and fleet data with a clean, functional UI and real-time data handling.
+
+</details>
+
+<details>
+<summary><b>📝 Shahiyog — Digital Signature & Document Platform</b></summary>
+<br/>
+
+A TypeScript-powered digital document and e-signature platform, deployed on Vercel with a modern UI and seamless document signing workflows.
+
+| Category | Details |
+|:--|:--|
+| **Stack** | TypeScript · Next.js · Vercel |
+| **Language** | TypeScript |
+| **Focus** | Digital signatures · Document management |
+| **Live** | [shahiyog.vercel.app](https://shahiyog.vercel.app) |
+| **Repository** | [github.com/PURVA2708/Shahiyog](https://github.com/PURVA2708/Shahiyog) |
+
+Engineered a robust e-signature and document platform using TypeScript and Next.js, featuring secure document flows and a polished user experience.
+
+</details>
+
+<details>
+<summary><b>🎤 Interview — Client–Server Interview Platform</b></summary>
 <br/>
 
 Full-stack JavaScript application with a dedicated client and server architecture, built for maintainability and independent deployment.
@@ -112,13 +150,13 @@ Full-stack JavaScript application with a dedicated client and server architectur
 | Category | Details |
 |:--|:--|
 | **Stack** | JavaScript · HTML · CSS · Client-Server Architecture |
-| **Scale** | Clearly separated client/server codebase |
+| **Language** | JavaScript |
+| **Scale** | Clearly separated client/server codebase with 12+ iterative commits |
 | **Performance** | Responsive, functional interface across devices |
-| **Security** | Structured client-server boundary for safer data flow |
-| **Impact** | Iterated across 12+ commits, reflecting agile, incremental delivery |
-| **Repository** | [github.com/PURVA2708](https://github.com/PURVA2708) |
+| **Live** | [interview-1-38ng.onrender.com](https://interview-1-38ng.onrender.com) |
+| **Repository** | [github.com/PURVA2708/Interview](https://github.com/PURVA2708/Interview) |
 
-Developed the majority of application logic in JavaScript, integrating HTML/CSS for a responsive UI, with continuous iteration on client-server interaction.
+Developed the majority of application logic in JavaScript, integrating HTML/CSS for a responsive UI, with continuous iteration on client-server interaction and agile incremental delivery.
 
 </details>
 
@@ -167,9 +205,6 @@ LDRP Institute of Technology & Research, Gujarat Technological University (KSV)
 <div align="center">
 
 <a href="https://leetcode.com/u/PURVA2708"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/PURVA2708"><img src="https://img.shields.io/badge/GeeksforGeeks-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/PURVA2708"><img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/PURVA2708"><img src="https://img.shields.io/badge/CodeChef-1E1B4B?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 </div>
 
@@ -214,7 +249,11 @@ LDRP Institute of Technology & Research, Gujarat Technological University (KSV)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PURVA2708/PURVA2708/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PURVA2708/PURVA2708/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PURVA2708/PURVA2708/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PURVA2708/PURVA2708/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -227,7 +266,8 @@ Learning:
   - Advanced System Design
   - Cloud-Native Architecture on GCP
 Building:
-  - VendorBridge ERP (feature expansion)
+  - Vendor_Apex ERP (feature expansion)
+  - TransitOps enhancements
 Exploring:
   - GenAI-integrated Web Applications
   - Scalable Multi-Tenant SaaS Patterns
