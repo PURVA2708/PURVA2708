@@ -154,26 +154,11 @@ I hold a **Google Cloud Professional Cloud Architect** certification alongside i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PURVA2708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=PURVA2708&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PURVA2708&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
-
 </div>
 
----
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PURVA2708&theme=algolia&no-frame=true&margin-w=10&row=1&column=6"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
